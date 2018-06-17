@@ -1,3 +1,5 @@
 # ud036_StarterCode
 Source code for a Movie Trailer website.
-in Order for the website to be diplayed run the entertainment.py python  file.
+
+In Order to run this code; 
+Run the entertainment.py python file which will in turn call the open_movies_page() function from the fresh_tomatoes.py file which will display the website
